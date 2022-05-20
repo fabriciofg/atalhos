@@ -197,13 +197,13 @@ div#requisicao{
 
 footer{
     background-color: var(--cor5);
-    color: white;
+    color: rgba(255, 255, 255, 0.288);
     text-align: center;
     font-size: 0.8em;
     padding: 5px;
 }
 footer a{
-    color: white;
+    color: rgba(255, 255, 255, 0);
     font-weight: bolder;
     text-decoration: none;
     padding: 0px;
