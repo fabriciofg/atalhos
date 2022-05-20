@@ -186,6 +186,12 @@ div#spdoc{
     background-size: contain;
     background-repeat: no-repeat;
 }
+div#requisicao{
+    background-image: url('../imagens/requisição.jpg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 
 
 
